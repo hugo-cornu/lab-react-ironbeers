@@ -1,0 +1,14 @@
+* {
+  text-align: left;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h2,
+h3,
+p {
+  margin: 10px;
+  padding: 0 10px;
+}

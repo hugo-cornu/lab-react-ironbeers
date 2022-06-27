@@ -1,0 +1,27 @@
+* {
+  border: 1px pink solid;
+  margin: 0;  
+  padding: 0;
+}
+
+.beer-container {
+  display: flex;
+  text-align: left;
+}
+
+.beer-container img {
+  width: 100px;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  color: black;
+}
+
+h4 {
+  color: gray;
+}

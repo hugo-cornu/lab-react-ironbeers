@@ -1,0 +1,7 @@
+div .name-and-tagline {
+  display: flex;
+}
+
+div .attenuation-and-date {
+  display: flex;
+}
